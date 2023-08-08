@@ -1,0 +1,15 @@
+.allComponent {
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    min-width: 200px;
+    max-width: 500px;
+    width: 50vw;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
